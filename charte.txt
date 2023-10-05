@@ -1,1 +1,3 @@
 Ceci est ma proposition d'article pour la charte de groupe !
+
+- Voici mon premier article
